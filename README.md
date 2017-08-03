@@ -1,0 +1,2 @@
+# MyResources
+for iOS
